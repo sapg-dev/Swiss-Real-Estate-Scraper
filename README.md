@@ -50,4 +50,4 @@ We welcome contributions! Please read our contributing guidelines to get started
 This project is licensed under [MIT License](LICENSE.md).
 
 ## Contact
-For any queries or suggestions, feel free to contact us at [your-email@example.com](mailto:your-email@example.com).
+For any queries or suggestions, feel free to contact us at [your-email@example.com](mailto:s@pacifictrout.com). Web Sraping is legal.
