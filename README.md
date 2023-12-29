@@ -1,4 +1,6 @@
-# Swiss Real Estate Web Scraper
+# Swiss Real Estate Web 
+
+URL provided is simply for data visualization purposes, and not part of the scraper. It was made using react to display the data, and show that this data is usable and very valuable.
 
 ## Introduction
 The Swiss Real Estate Web Scraper is a sophisticated Python-based tool designed for extracting detailed property information from various Swiss real estate websites, starting with immobilier.ch. This project is a testament to efficiency, accuracy, and scalability, making it a standout in the realm of web scraping.
