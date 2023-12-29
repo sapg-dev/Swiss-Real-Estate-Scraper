@@ -49,5 +49,4 @@ We welcome contributions! Please read our contributing guidelines to get started
 ## License
 This project is licensed under [MIT License](LICENSE.md).
 
-## Contact
-For any queries or suggestions, feel free to contact us at [your-email@example.com](mailto:s@pacifictrout.com). Web Sraping is legal.
+Web Sraping is legal.
