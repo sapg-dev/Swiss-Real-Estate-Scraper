@@ -50,6 +50,6 @@ The Swiss Real Estate Web Scraper is a sophisticated Python-based tool designed 
 - Requirements: Python 3.x, Selenium WebDriver.
 - Installation instructions and usage details to be provided.
 
-We don't welcome contributions, but you are welcome to freely fork the project and experiment with it. 
+I don't welcome contributions, but you are welcome to freely fork the project and experiment with it. 
 
 Web Sraping is legal.
