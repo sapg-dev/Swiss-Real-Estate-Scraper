@@ -1,5 +1,7 @@
 # Swiss Real Estate Web 
 
+overlord.py is the file to run.
+
 URL provided is simply for data visualization purposes, and not part of the scraper. It was made using react to display the data, and show that this data is usable and very valuable.
 
 ## Introduction
